@@ -15,6 +15,8 @@
 //     return 0;
 // }
 
+// >>.......Not repeated the element.........>>
+
 #include<iostream>
 using namespace std;
 int main(){

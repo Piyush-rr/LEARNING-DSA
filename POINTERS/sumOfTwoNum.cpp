@@ -11,6 +11,8 @@
 //     return 0;
 // }
 
+// >>..................Using function...................<<
+
 #include<iostream>
 using namespace std;
 void sumOfNumbers(int *num1,int *num2,int *result){

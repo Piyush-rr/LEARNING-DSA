@@ -17,7 +17,6 @@ bool isomorphic(string s1,string s2){
     return true;
 
 }
-
 int main(){
     string s1,s2;
     cin>>s1>>s2;

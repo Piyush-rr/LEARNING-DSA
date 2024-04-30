@@ -6,13 +6,14 @@ int main(){
     cin>>a>>b;
     p=&a;
     q=&b;
-    sum=*p**q;
+    sum=(*p)*(*q);
     cout<<"sum of two numbers is :"<<sum;
     return 0;
 }
 
 
-// using function
+// >>--.................Using function...................---<<
+
 // #include<iostream>
 // using namespace std;
 // void multiply(int *p,int *q,int *result){

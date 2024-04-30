@@ -9,6 +9,5 @@ int main(){
     cin>>redius;
     double area=areaOfCircle(redius);
     cout<<"the area of circle is :"<<area;
-    // cout<<""
     return 0;
 }
